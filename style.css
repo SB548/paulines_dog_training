@@ -16,7 +16,7 @@
 }
 
 .main {
-    padding: 0 0 0 10px;
+    padding: 0 0 0 0px;
     
 }
 
@@ -63,6 +63,7 @@
 .grid-item {
     max-width: 1720px;
     margin: 0 auto;
+    justify-content: center;
 }
 
 .grid-item-1 {
@@ -79,6 +80,7 @@
 .grid-item-3 {
     grid-column: 3;
     background-color: white;
+    padding: 0 0 0 20px;
 }
 
 .fa-brands {
